@@ -6,6 +6,11 @@ Ability to predict the make and model of a car.
 Stanford Cars Dataset
 - 16,185 images
 - 196 classes
+- https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
+
+## Dependencies
+Install project dependencies in virtual environment \
+``pip install -r requirements.txt``
 
 ## References
 3D Object Representations for Fine-Grained Categorization
